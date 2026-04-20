@@ -1,6 +1,6 @@
 ---
 name: pinterest-image-source-recovery
-description: Recover usable Pinterest image source URLs with compliance-first workflow when direct automation fails due to strict anti-scraping. Use for requests like "Pinterest 反爬太严", "拿不到真实图片地址", "pin 链接解析失败", and tasks that need stable fallback from full automation to browser-assisted extraction.
+description: Pinterest 图片源 URL 恢复 - 当自动化失败时使用合规优先的工作流进行浏览器辅助提取。处理反爬严格的情况。
 ---
 
 # Pinterest Image Source Recovery
