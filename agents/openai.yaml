@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pinterest Source Recovery"
+  short_description: "Pinterest 图片真实地址提取与兜底流程"
+  default_prompt: "Use $pinterest-image-source-recovery to recover usable direct image URLs from Pinterest links with a compliance-first fallback flow, then report resolved and blocked items separately."
